@@ -1,3 +1,5 @@
+This application is hosted on Heroku - https://djangopractisedemo.herokuapp.com/
+
 Online Book Store Ecommerse
 A portal to connect to buy / sell Books online, sellers can sell, users can browse and buy Books online.
 
